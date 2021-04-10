@@ -13,7 +13,7 @@ def compiles():
 @check50.check(compiles)
 def emma():
     """responds to number 3"""
-    check50.run("./kubas").stdin("3").stdout("9").exit()
+    check50.run("./kubas").stdin("3").stdout("27").exit()
 
 @check50.check(compiles)
 def rodrigo():
