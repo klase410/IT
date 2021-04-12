@@ -12,10 +12,10 @@ def compiles():
 
 @check50.check(compiles)
 def emma():
-    """responds to number 2"""
+    """responds to 2 + 5"""
     check50.run("./suma").stdin("2").stdin("5").stdout("7").exit()
 
 @check50.check(compiles)
 def rodrigo():
-    """responds to number 6"""
+    """responds to 6 + 8"""
     check50.run("./suma").stdin("6").stdin("8").stdout("14").exit()
