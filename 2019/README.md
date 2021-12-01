@@ -1,6 +1,6 @@
 # Išpręskime VBE IT 2019 metų užduotį „Aliejus“
 
-{% spoiler "IT egzamino uzduotis :scream:"%}
+{% spoiler "IT egzamino uzduotis"%}
 
 # IV. Programavimo praktinės užduotys
 
@@ -56,7 +56,7 @@ kiek litrų aliejaus liko neišpilstyta.
 {% endspoiler %}
 
 
-{% spoiler "Algoritminis mąstymas :sunglasses:" %}
+{% spoiler "Algoritminis mąstymas" %}
 ![Image of To-Do](https://pbs.twimg.com/media/C1jVr21XcAAosxF.jpg)
 1. Sukompiliuokite savo programą
 1. Paleiskite programa
@@ -65,7 +65,7 @@ kiek litrų aliejaus liko neišpilstyta.
     1.  ir t.t.
 {% endspoiler %} 
 
-{% spoiler "Programavimas :computer:" %}
+{% spoiler "Programavimas" %}
 
 {% spoiler "Užuomina 1: Rašymas į bylą" %}
 ## Įsisavink duomenų rašymą į bylą iš šitos nuorodos:
@@ -90,7 +90,7 @@ We can use normal variables (v1, v2, v3, ..) when we have a small number of obje
 
 {% endspoiler %} 
 
-{% spoiler "Darbo pateikimas :trollface:" %}
+{% spoiler "Darbo pateikimas" %}
 check50 klase410/it/cpp/2019
 
 Jei reikės access token: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
