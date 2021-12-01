@@ -8,7 +8,7 @@ Maksimalus vertinimas – 50 taškų:
 * Aliejus - 20 taškų
 * Sportas - 30 taškų
 
-## 1 užduotis. Aliejus 
+## 1 užduotis. Aliejus
 
 Ūkininkas išspaustą aliejų išpilsto į turimus vieno litro, trijų litrų ir penkių litrų indus. Pirmiausia
 aliejus pilamas į penkių litrų indus. Po to, jeigu reikia, – į trijų litrų indus, galiausiai, jeigu reikia, – į
@@ -49,11 +49,9 @@ nebus, rašykite nulį. Jeigu bus nuostolis, užrašykite, koks (neigiamuoju ska
 
 ## Nurodymai
 
-* Sukurkite ir parašykite funkciją<sup>1</sup>, kuri suskaičiuotų, kiek buvo panaudota nurodytos talpos indų ir
+* Sukurkite ir parašykite funkciją, kuri suskaičiuotų, kiek buvo panaudota nurodytos talpos indų ir
 kiek litrų aliejaus liko neišpilstyta.
 * Programoje nenaudokite sakinių, skirtų darbui su ekranu.
-
-<sup>1</sup>Pascal programavimo kalboje turi būti procedūra.
 
 {% endspoiler %}
 
@@ -92,7 +90,10 @@ We can use normal variables (v1, v2, v3, ..) when we have a small number of obje
 
 {% endspoiler %} 
 
-{% spoiler "2020 IT VBE užduotys :trollface:" %}
-https://bit.ly/2xqI0ZT
+{% spoiler "Darbo pateikimas :trollface:" %}
+check50 klase410/it/cpp/2019
+
+Jei reikės access token: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
 {% endspoiler %} 
 
