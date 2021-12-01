@@ -57,17 +57,6 @@ kiek litrų aliejaus liko neišpilstyta.
 
 {% endspoiler %}
 
-{% spoiler "Užduoties suvokimas :muscle: %}
-
-{% spoiler "Vaizdo medžiaga :movie_camera:" %}
-{% video https://youtu.be/wzzUCeGZ3Os %}
-{% endspoiler %}
-
-{% spoiler "Tekstinis vedlys :page_with_curl:" %}
-Vieta Jūsų detaliam aprašymui
-{% endspoiler %} 
-
-{% endspoiler %}
 
 {% spoiler "Algoritminis mąstymas :sunglasses:" %}
 ![Image of To-Do](https://pbs.twimg.com/media/C1jVr21XcAAosxF.jpg)
@@ -79,8 +68,6 @@ Vieta Jūsų detaliam aprašymui
 {% endspoiler %} 
 
 {% spoiler "Programavimas :computer:" %}
-![Image of point left](https://media1.giphy.com/media/1n9At3XeXvyVZdydfK/giphy.gif)
-
 
 {% spoiler "Užuomina 1: Rašymas į bylą" %}
 ## Įsisavink duomenų rašymą į bylą iš šitos nuorodos:
@@ -101,14 +88,6 @@ We can use normal variables (v1, v2, v3, ..) when we have a small number of obje
 
 ![Image of point left](https://www.geeksforgeeks.org/wp-content/uploads/Array-Declaration-In-C.png)
 
-{% endspoiler %} 
-
-{% spoiler "Užuomina 3: Algoritmo sugalvojimas" %}
-Tu gali :D
-{% endspoiler %} 
-
-{% spoiler "Užuomina n:" %}
-Tu gerai varai!
 {% endspoiler %} 
 
 {% endspoiler %} 
